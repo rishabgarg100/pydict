@@ -1,2 +1,2 @@
 # pydict
-A simple dictionary in python
+A simple dictionary made in python
